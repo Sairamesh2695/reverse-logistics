@@ -1,0 +1,81 @@
+location_id,location_name,location_type,address_line1,city,country,latitude,longitude,capacity_units,is_active,created_at
+LOC-00001,Distribution Center 1,distribution_center,6541 Industrial Blvd,Chicago,CA,68.338136,78.170549,1485,true,2025-11-29
+LOC-00002,Repair Center 2,repair_center,7055 Industrial Blvd,London,IN,-2.3095,157.881736,9082,true,2023-12-20
+LOC-00003,Warehouse 3,warehouse,1665 Industrial Blvd,Chicago,AU,41.831896,150.909332,49661,true,2025-11-29
+LOC-00004,Customer Site 4,customer_site,8138 Industrial Blvd,Hamburg,JP,48.000787,140.19207,34688,true,2024-11-29
+LOC-00005,Warehouse 5,warehouse,6314 Industrial Blvd,Mexico City,CN,-59.006877,-34.662181,6387,true,2025-09-08
+LOC-00006,Warehouse 6,warehouse,102 Industrial Blvd,Mumbai,MX,37.539157,-160.398794,45729,true,2025-02-19
+LOC-00007,Supplier Site 7,supplier_site,9685 Industrial Blvd,Sydney,CN,25.663889,93.797722,23351,true,2025-05-20
+LOC-00008,Warehouse 8,warehouse,1580 Industrial Blvd,São Paulo,CN,-15.812298,43.841648,38199,true,2025-09-12
+LOC-00009,Customer Site 9,customer_site,1058 Industrial Blvd,Mumbai,AU,-13.86695,78.974367,27618,true,2024-04-30
+LOC-00010,Customer Site 10,customer_site,9673 Industrial Blvd,Shanghai,CA,-45.795663,173.207626,15755,true,2025-09-29
+LOC-00011,Customer Site 11,customer_site,1199 Industrial Blvd,São Paulo,GB,3.096742,69.908665,29126,true,2025-03-02
+LOC-00012,Customer Site 12,customer_site,3980 Industrial Blvd,Tokyo,US,-35.786385,135.242908,43357,true,2023-09-03
+LOC-00013,Warehouse 13,warehouse,7934 Industrial Blvd,Mumbai,CA,69.866481,-100.689722,30999,true,2025-02-22
+LOC-00014,Distribution Center 14,distribution_center,4243 Industrial Blvd,São Paulo,AU,47.642865,6.304795,9232,true,2024-07-21
+LOC-00015,Warehouse 15,warehouse,9147 Industrial Blvd,São Paulo,MX,46.065763,13.13081,4445,true,2024-04-10
+LOC-00016,Port 16,port,5099 Industrial Blvd,Chicago,DE,33.587578,33.291821,43052,true,2024-12-30
+LOC-00017,Supplier Site 17,supplier_site,5806 Industrial Blvd,São Paulo,BR,-9.323912,58.384809,13432,true,2025-04-07
+LOC-00018,Distribution Center 18,distribution_center,8359 Industrial Blvd,Sydney,MX,46.491168,139.251807,27945,true,2023-06-05
+LOC-00019,Distribution Center 19,distribution_center,1046 Industrial Blvd,Hamburg,CN,-3.198948,75.658938,31130,true,2024-02-21
+LOC-00020,Repair Center 20,repair_center,1342 Industrial Blvd,London,GB,-32.46268,35.618416,13309,true,2023-02-05
+LOC-00021,Port 21,port,5166 Industrial Blvd,Shanghai,IN,-8.131563,-125.452094,45496,true,2024-11-08
+LOC-00022,Distribution Center 22,distribution_center,7073 Industrial Blvd,Mumbai,MX,-43.702737,-90.430502,34843,true,2024-01-27
+LOC-00023,Warehouse 23,warehouse,9793 Industrial Blvd,Toronto,IN,35.600094,17.461332,36651,true,2023-04-21
+LOC-00024,Port 24,port,2631 Industrial Blvd,Hamburg,GB,25.880946,-179.692865,1728,true,2023-03-09
+LOC-00025,Warehouse 25,warehouse,1572 Industrial Blvd,Shanghai,US,25.646394,-130.656561,1547,true,2023-10-21
+LOC-00026,Customer Site 26,customer_site,8061 Industrial Blvd,São Paulo,CA,-52.156554,151.044041,36797,true,2025-12-25
+LOC-00027,Port 27,port,8695 Industrial Blvd,Hamburg,CN,58.114135,-94.420135,32909,true,2023-02-13
+LOC-00028,Warehouse 28,warehouse,9156 Industrial Blvd,Shanghai,US,29.169011,-112.030029,49723,true,2024-11-21
+LOC-00029,Distribution Center 29,distribution_center,3994 Industrial Blvd,Chicago,CA,-54.56421,140.991584,14240,true,2023-12-09
+LOC-00030,Distribution Center 30,distribution_center,918 Industrial Blvd,Toronto,CN,6.822639,-84.310712,13062,true,2024-04-18
+LOC-00031,Supplier Site 31,supplier_site,2908 Industrial Blvd,Mumbai,CA,36.986124,84.978979,22027,true,2025-08-14
+LOC-00032,Distribution Center 32,distribution_center,887 Industrial Blvd,Mexico City,US,-19.763147,-54.51747,5042,true,2024-11-11
+LOC-00033,Distribution Center 33,distribution_center,7341 Industrial Blvd,Mumbai,CN,20.801353,132.360281,20752,true,2024-03-22
+LOC-00034,Distribution Center 34,distribution_center,1344 Industrial Blvd,Toronto,CN,54.683584,41.811119,20848,true,2025-01-25
+LOC-00035,Distribution Center 35,distribution_center,2206 Industrial Blvd,London,CA,38.364113,79.965196,34267,true,2025-04-30
+LOC-00036,Warehouse 36,warehouse,3355 Industrial Blvd,London,BR,27.792962,103.135877,22217,true,2024-11-04
+LOC-00037,Distribution Center 37,distribution_center,9296 Industrial Blvd,London,BR,-31.006622,-60.734627,48994,true,2024-06-13
+LOC-00038,Customer Site 38,customer_site,8031 Industrial Blvd,Mexico City,AU,-37.976892,-45.622871,27452,true,2025-06-19
+LOC-00039,Port 39,port,4127 Industrial Blvd,Toronto,CA,-33.153626,89.825643,28265,true,2023-12-12
+LOC-00040,Repair Center 40,repair_center,529 Industrial Blvd,Tokyo,CA,-21.089582,-143.476352,44183,true,2025-07-07
+LOC-00041,Supplier Site 41,supplier_site,1786 Industrial Blvd,Toronto,DE,32.17368,-8.123374,27031,true,2024-02-27
+LOC-00042,Port 42,port,2123 Industrial Blvd,Tokyo,BR,-21.758163,70.167238,24408,true,2024-10-04
+LOC-00043,Customer Site 43,customer_site,5509 Industrial Blvd,Sydney,CN,-18.315351,47.062679,8872,true,2024-07-15
+LOC-00044,Distribution Center 44,distribution_center,5053 Industrial Blvd,Shanghai,CN,-33.128985,174.137892,20464,true,2025-11-21
+LOC-00045,Distribution Center 45,distribution_center,7558 Industrial Blvd,Toronto,US,56.237835,11.990181,31359,true,2025-02-10
+LOC-00046,Distribution Center 46,distribution_center,7015 Industrial Blvd,Toronto,JP,-8.651282,170.065568,34694,true,2023-03-27
+LOC-00047,Warehouse 47,warehouse,6614 Industrial Blvd,Hamburg,US,-30.481516,49.261776,39368,true,2025-09-08
+LOC-00048,Port 48,port,5112 Industrial Blvd,Mumbai,CN,-53.09921,-132.875917,1646,true,2025-04-29
+LOC-00049,Repair Center 49,repair_center,874 Industrial Blvd,Tokyo,CN,-32.681849,-170.366658,11417,true,2024-01-21
+LOC-00050,Repair Center 50,repair_center,6853 Industrial Blvd,Mexico City,CN,66.502381,-125.704564,44342,true,2024-12-28
+LOC-00051,Repair Center 51,repair_center,7819 Industrial Blvd,Chicago,MX,-32.69852,31.415905,41603,true,2023-11-01
+LOC-00052,Distribution Center 52,distribution_center,2040 Industrial Blvd,Hamburg,CA,-30.682516,-63.283997,28188,true,2024-04-27
+LOC-00053,Distribution Center 53,distribution_center,580 Industrial Blvd,Mumbai,MX,58.357556,163.222674,31071,true,2023-03-20
+LOC-00054,Warehouse 54,warehouse,4698 Industrial Blvd,Sydney,MX,36.144917,-145.878658,14409,true,2023-06-06
+LOC-00055,Port 55,port,6841 Industrial Blvd,Shanghai,IN,-5.300309,-147.292341,45315,true,2024-12-28
+LOC-00056,Warehouse 56,warehouse,4011 Industrial Blvd,Toronto,MX,10.836296,162.758139,32923,true,2025-01-04
+LOC-00057,Warehouse 57,warehouse,1851 Industrial Blvd,Shanghai,MX,69.93633,-153.300336,47911,true,2025-07-30
+LOC-00058,Distribution Center 58,distribution_center,6470 Industrial Blvd,Sydney,JP,12.455058,-168.219674,41966,true,2025-09-23
+LOC-00059,Customer Site 59,customer_site,4908 Industrial Blvd,Mexico City,DE,43.947552,-122.4735,5949,true,2025-09-13
+LOC-00060,Repair Center 60,repair_center,1747 Industrial Blvd,Chicago,BR,68.124842,6.522301,31964,true,2024-09-01
+LOC-00061,Port 61,port,640 Industrial Blvd,São Paulo,JP,-5.251968,-73.064799,24144,true,2023-12-25
+LOC-00062,Port 62,port,1378 Industrial Blvd,Toronto,CN,-4.145908,115.04726,15027,true,2023-06-06
+LOC-00063,Port 63,port,5370 Industrial Blvd,Tokyo,GB,-41.968625,167.797851,41458,true,2024-08-20
+LOC-00064,Warehouse 64,warehouse,4263 Industrial Blvd,Mexico City,MX,22.068062,-94.646083,35224,true,2023-05-28
+LOC-00065,Port 65,port,7028 Industrial Blvd,Hamburg,US,-38.050206,-101.785646,6052,true,2025-01-29
+LOC-00066,Supplier Site 66,supplier_site,3558 Industrial Blvd,London,CN,-30.144371,49.479415,20313,true,2023-11-27
+LOC-00067,Distribution Center 67,distribution_center,9443 Industrial Blvd,Toronto,CN,34.338292,-23.359469,36721,true,2024-02-02
+LOC-00068,Warehouse 68,warehouse,186 Industrial Blvd,Tokyo,BR,50.881322,-2.416666,35985,true,2024-02-05
+LOC-00069,Port 69,port,5170 Industrial Blvd,London,BR,26.237132,69.132304,10684,true,2025-02-01
+LOC-00070,Distribution Center 70,distribution_center,9096 Industrial Blvd,Mexico City,BR,14.349202,145.670951,46276,true,2024-02-25
+LOC-00071,Customer Site 71,customer_site,2712 Industrial Blvd,London,JP,-15.921321,-153.998458,44685,true,2023-06-14
+LOC-00072,Warehouse 72,warehouse,3897 Industrial Blvd,London,BR,-1.560289,-104.530064,6343,true,2025-12-03
+LOC-00073,Port 73,port,5589 Industrial Blvd,Chicago,MX,39.757788,20.830766,22851,true,2025-11-02
+LOC-00074,Repair Center 74,repair_center,6429 Industrial Blvd,London,MX,69.597202,-152.934755,2858,true,2024-09-11
+LOC-00075,Warehouse 75,warehouse,7851 Industrial Blvd,London,BR,65.118825,149.711493,20230,true,2024-11-28
+LOC-00076,Supplier Site 76,supplier_site,6713 Industrial Blvd,Tokyo,CN,42.531813,116.613842,14926,true,2025-06-21
+LOC-00077,Supplier Site 77,supplier_site,8036 Industrial Blvd,Shanghai,CN,-26.542529,147.022374,23440,true,2023-04-19
+LOC-00078,Port 78,port,9374 Industrial Blvd,London,US,-52.773135,4.214283,18731,true,2025-04-23
+LOC-00079,Distribution Center 79,distribution_center,1924 Industrial Blvd,Mexico City,GB,-3.917063,113.526286,45060,true,2025-04-15
+LOC-00080,Distribution Center 80,distribution_center,4253 Industrial Blvd,Mexico City,US,-55.815207,-156.997268,15018,true,2024-11-22

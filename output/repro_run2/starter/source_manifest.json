@@ -1,0 +1,48 @@
+{
+  "project": "Reverse Logistics Synthetic Data",
+  "generated_at": "2026-11-22T17:04:03",
+  "seed": 20261022,
+  "scale": "starter",
+  "generator_command": "python generate_data.py --seed 20261022 --scale starter",
+  "data_provenance": "Fully synthetic; no real personal or confidential data used.",
+  "license": "Synthetic data, freely usable for demonstration and academic purposes.",
+  "entities": [
+    "asset_types.csv",
+    "owners.csv",
+    "locations.csv",
+    "assets.csv",
+    "shipments.csv",
+    "custody_events.csv",
+    "return_authorizations.csv",
+    "inspections.csv",
+    "repairs.csv",
+    "deposit_ledger.csv",
+    "ground_truth.csv"
+  ],
+  "row_counts": {
+    "asset_types.csv": 23,
+    "owners.csv": 120,
+    "locations.csv": 80,
+    "assets.csv": 200,
+    "shipments.csv": 100,
+    "custody_events.csv": 1030,
+    "return_authorizations.csv": 70,
+    "inspections.csv": 321,
+    "repairs.csv": 106,
+    "deposit_ledger.csv": 230,
+    "ground_truth.csv": 37
+  },
+  "checksums_md5": {
+    "asset_types.csv": "b72606805874372b2f52ce9971ab24cc",
+    "owners.csv": "d44a06b1b141b0aff08f89461b974af6",
+    "locations.csv": "d0e754e5d562ba67a4e4869c7fbbdb69",
+    "assets.csv": "5702d72171e6f450950e82c46a7b3c49",
+    "shipments.csv": "0c94ac6a0b7690d0f26349429a5e9eee",
+    "custody_events.csv": "0fe5e9a4e95aa7d8eba16e978c98d258",
+    "return_authorizations.csv": "861c62587a6a02c25ca826b9abf62b8c",
+    "inspections.csv": "c3478d06dcfe837368a7a0fc640f042e",
+    "repairs.csv": "bed11650ffc873c2137a31f747c1596f",
+    "deposit_ledger.csv": "cc1b3732cfe66b14c02b694ada59bd60",
+    "ground_truth.csv": "880c18605300c161db0427e44a7ec1ff"
+  }
+}

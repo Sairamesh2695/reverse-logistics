@@ -1,0 +1,46 @@
+issue_id,issue_type,entity,asset_id,description,severity
+GT-EC1-0001,simultaneous_location,CustodyEvent,ASSET-0001504,Asset recorded at two locations simultaneously,high
+GT-EC1-0002,simultaneous_location,CustodyEvent,ASSET-0002539,Asset recorded at two locations simultaneously,high
+GT-EC1-0003,simultaneous_location,CustodyEvent,ASSET-0019281,Asset recorded at two locations simultaneously,high
+GT-EC1-0004,simultaneous_location,CustodyEvent,ASSET-0000467,Asset recorded at two locations simultaneously,high
+GT-EC1-0005,simultaneous_location,CustodyEvent,ASSET-0009663,Asset recorded at two locations simultaneously,high
+GT-EC1-0006,simultaneous_location,CustodyEvent,ASSET-0004229,Asset recorded at two locations simultaneously,high
+GT-EC1-0007,simultaneous_location,CustodyEvent,ASSET-0014562,Asset recorded at two locations simultaneously,high
+GT-EC1-0008,simultaneous_location,CustodyEvent,ASSET-0015451,Asset recorded at two locations simultaneously,high
+GT-EC1-0009,simultaneous_location,CustodyEvent,ASSET-0008591,Asset recorded at two locations simultaneously,high
+GT-EC1-0010,simultaneous_location,CustodyEvent,ASSET-0012625,Asset recorded at two locations simultaneously,high
+GT-EC2-0001,return_before_dispatch,CustodyEvent,ASSET-0000325,Return event timestamp precedes dispatch event timestamp,high
+GT-EC2-0002,return_before_dispatch,CustodyEvent,ASSET-0015528,Return event timestamp precedes dispatch event timestamp,high
+GT-EC2-0003,return_before_dispatch,CustodyEvent,ASSET-0008605,Return event timestamp precedes dispatch event timestamp,high
+GT-EC2-0004,return_before_dispatch,CustodyEvent,ASSET-0004551,Return event timestamp precedes dispatch event timestamp,high
+GT-EC2-0005,return_before_dispatch,CustodyEvent,ASSET-0005832,Return event timestamp precedes dispatch event timestamp,high
+GT-EC3-0001,duplicate_refund,DepositLedger,ASSET-0013735,Deposit refunded twice for RMA RMA-2026-003815,medium
+GT-EC3-0002,duplicate_refund,DepositLedger,ASSET-0007511,Deposit refunded twice for RMA RMA-2026-002584,medium
+GT-EC3-0003,duplicate_refund,DepositLedger,ASSET-0008299,Deposit refunded twice for RMA RMA-2026-004868,medium
+GT-EC3-0004,duplicate_refund,DepositLedger,ASSET-0015994,Deposit refunded twice for RMA RMA-2026-001402,medium
+GT-EC3-0005,duplicate_refund,DepositLedger,ASSET-0005867,Deposit refunded twice for RMA RMA-2026-002225,medium
+GT-EC4-0001,repair_without_inspection,Repair,ASSET-0019235,Repair REP-EC4-000001 closed/completed without a linked inspection,medium
+GT-EC4-0002,repair_without_inspection,Repair,ASSET-0005420,Repair REP-EC4-000002 closed/completed without a linked inspection,medium
+GT-EC4-0003,repair_without_inspection,Repair,ASSET-0011723,Repair REP-EC4-000003 closed/completed without a linked inspection,medium
+GT-EC4-0004,repair_without_inspection,Repair,ASSET-0006307,Repair REP-EC4-000004 closed/completed without a linked inspection,medium
+GT-EC4-0005,repair_without_inspection,Repair,ASSET-0015944,Repair REP-EC4-000005 closed/completed without a linked inspection,medium
+GT-EC5-0001,missing_actor,CustodyEvent,ASSET-0016771,Custody event CUST-ASSET-0016771-000006 has no recorded actor/handler,low
+GT-EC5-0002,missing_actor,CustodyEvent,ASSET-0014084,Custody event CUST-ASSET-0014084-000005 has no recorded actor/handler,low
+GT-EC5-0003,missing_actor,CustodyEvent,ASSET-0008967,Custody event CUST-ASSET-0008967-000001 has no recorded actor/handler,low
+GT-EC5-0004,missing_actor,CustodyEvent,ASSET-0000495,Custody event CUST-ASSET-0000495-000001 has no recorded actor/handler,low
+GT-EC5-0005,missing_actor,CustodyEvent,ASSET-0010576,Custody event CUST-ASSET-0010576-000002 has no recorded actor/handler,low
+GT-EC5-0006,missing_actor,CustodyEvent,ASSET-0013996,Custody event CUST-ASSET-0013996-000001 has no recorded actor/handler,low
+GT-EC5-0007,missing_actor,CustodyEvent,ASSET-0012866,Custody event CUST-ASSET-0012866-000003 has no recorded actor/handler,low
+GT-EC5-0008,missing_actor,CustodyEvent,ASSET-0018802,Custody event CUST-ASSET-0018802-000003 has no recorded actor/handler,low
+GT-EC5-0009,missing_actor,CustodyEvent,ASSET-0002588,Custody event CUST-ASSET-0002588-000002 has no recorded actor/handler,low
+GT-EC5-0010,missing_actor,CustodyEvent,ASSET-0015535,Custody event CUST-ASSET-0015535-000003 has no recorded actor/handler,low
+GT-EC5-0011,missing_actor,CustodyEvent,ASSET-0012320,Custody event CUST-ASSET-0012320-000003 has no recorded actor/handler,low
+GT-EC5-0012,missing_actor,CustodyEvent,ASSET-0019139,Custody event CUST-ASSET-0019139-000002 has no recorded actor/handler,low
+GT-EC5-0013,missing_actor,CustodyEvent,ASSET-0007513,Custody event CUST-ASSET-0007513-000003 has no recorded actor/handler,low
+GT-EC5-0014,missing_actor,CustodyEvent,ASSET-0004668,Custody event CUST-ASSET-0004668-000003 has no recorded actor/handler,low
+GT-EC5-0015,missing_actor,CustodyEvent,ASSET-0006097,Custody event CUST-ASSET-0006097-000002 has no recorded actor/handler,low
+GT-EC5-0016,missing_actor,CustodyEvent,ASSET-0009396,Custody event CUST-ASSET-0009396-000008 has no recorded actor/handler,low
+GT-EC5-0017,missing_actor,CustodyEvent,ASSET-0001249,Custody event CUST-ASSET-0001249-000005 has no recorded actor/handler,low
+GT-EC5-0018,missing_actor,CustodyEvent,ASSET-0015967,Custody event CUST-ASSET-0015967-000005 has no recorded actor/handler,low
+GT-EC5-0019,missing_actor,CustodyEvent,ASSET-0005064,Custody event CUST-ASSET-0005064-000003 has no recorded actor/handler,low
+GT-EC5-0020,missing_actor,CustodyEvent,ASSET-0001889,Custody event CUST-ASSET-0001889-000004 has no recorded actor/handler,low

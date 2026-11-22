@@ -1,0 +1,24 @@
+asset_type_id,category,variant_name,description,max_capacity_kg,tare_weight_kg,material,max_lifetime_days,inspection_interval_days,deposit_amount_usd,is_returnable,lifecycle_rule,max_reuse_cycles,created_at
+AT-0001,Pallet,Pallet-V1,Pallet variant 1 for logistics use,144.6,123.9,wood,639,90,427.67,true,reuse_until_damaged,375,2026-01-01
+AT-0002,Pallet,Pallet-V2,Pallet variant 2 for logistics use,437.8,47.7,composite,1179,57,70.18,true,age_based,109,2026-01-01
+AT-0003,Pallet,Pallet-V3,Pallet variant 3 for logistics use,472.2,68.7,composite,367,59,256.51,true,fixed_cycles,82,2026-01-01
+AT-0004,Pallet,Pallet-V4,Pallet variant 4 for logistics use,170.2,144.6,wood,772,147,240.11,true,reuse_until_damaged,478,2026-01-01
+AT-0005,Crate,Crate-V1,Crate variant 1 for logistics use,1051.6,16.1,wood,518,141,258.95,true,age_based,399,2026-01-01
+AT-0006,Crate,Crate-V2,Crate variant 2 for logistics use,881.2,107.2,plastic,912,62,478.29,true,fixed_cycles,483,2026-01-01
+AT-0007,Container,Container-V1,Container variant 1 for logistics use,773.2,46.0,wood,178,31,435.12,true,reuse_until_damaged,48,2026-01-01
+AT-0008,Container,Container-V2,Container variant 2 for logistics use,1988.1,73.0,plastic,858,166,113.88,true,reuse_until_damaged,197,2026-01-01
+AT-0009,Container,Container-V3,Container variant 3 for logistics use,1206.6,148.7,plastic,144,152,386.78,true,reuse_until_damaged,131,2026-01-01
+AT-0010,Tote,Tote-V1,Tote variant 1 for logistics use,1057.3,111.3,steel,390,40,155.74,true,fixed_cycles,249,2026-01-01
+AT-0011,Tote,Tote-V2,Tote variant 2 for logistics use,284.1,135.5,composite,89,42,422.99,true,reuse_until_damaged,383,2026-01-01
+AT-0012,Drum,Drum-V1,Drum variant 1 for logistics use,891.8,70.1,steel,851,81,259.39,true,age_based,171,2026-01-01
+AT-0013,Drum,Drum-V2,Drum variant 2 for logistics use,1855.0,43.4,steel,1107,110,363.91,true,age_based,495,2026-01-01
+AT-0014,Roll Cage,Roll Cage-V1,Roll Cage variant 1 for logistics use,742.8,110.7,steel,1196,75,409.76,true,reuse_until_damaged,266,2026-01-01
+AT-0015,Roll Cage,Roll Cage-V2,Roll Cage variant 2 for logistics use,619.2,24.5,plastic,370,39,235.59,true,age_based,433,2026-01-01
+AT-0016,Roll Cage,Roll Cage-V3,Roll Cage variant 3 for logistics use,570.6,148.5,composite,1001,88,347.62,true,age_based,73,2026-01-01
+AT-0017,Roll Cage,Roll Cage-V4,Roll Cage variant 4 for logistics use,1857.2,85.1,wood,1058,153,218.78,true,reuse_until_damaged,300,2026-01-01
+AT-0018,Roll Cage,Roll Cage-V5,Roll Cage variant 5 for logistics use,1029.4,57.0,wood,96,133,305.85,true,fixed_cycles,422,2026-01-01
+AT-0019,IBC,IBC-V1,IBC variant 1 for logistics use,262.6,103.6,plastic,701,99,433.76,true,age_based,193,2026-01-01
+AT-0020,IBC,IBC-V2,IBC variant 2 for logistics use,947.8,94.5,plastic,837,69,303.79,true,reuse_until_damaged,261,2026-01-01
+AT-0021,Reel,Reel-V1,Reel variant 1 for logistics use,241.9,32.2,wood,886,67,492.39,true,fixed_cycles,474,2026-01-01
+AT-0022,Reel,Reel-V2,Reel variant 2 for logistics use,1794.8,59.8,composite,928,108,187.99,true,reuse_until_damaged,35,2026-01-01
+AT-0023,Reel,Reel-V3,Reel variant 3 for logistics use,934.8,35.0,wood,257,44,328.56,true,fixed_cycles,413,2026-01-01

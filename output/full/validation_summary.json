@@ -1,0 +1,35 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "row_counts": {
+    "asset_types.csv": 23,
+    "owners.csv": 120,
+    "locations.csv": 80,
+    "assets.csv": 20000,
+    "shipments.csv": 10000,
+    "custody_events.csv": 100030,
+    "return_authorizations.csv": 7000,
+    "inspections.csv": 34343,
+    "repairs.csv": 10309,
+    "deposit_ledger.csv": 22331,
+    "ground_truth.csv": 45
+  },
+  "checksums": {
+    "asset_types.csv": "b72606805874372b2f52ce9971ab24cc",
+    "owners.csv": "d44a06b1b141b0aff08f89461b974af6",
+    "locations.csv": "d0e754e5d562ba67a4e4869c7fbbdb69",
+    "assets.csv": "a5af2fc8c530e4d988522e40ad764974",
+    "shipments.csv": "212e23969d180e55d8b1a324d795eadf",
+    "custody_events.csv": "29fd258c34010b19c57e11019b94c54d",
+    "return_authorizations.csv": "1528b5582a262e33f3d9d3e7551f9426",
+    "inspections.csv": "b3b87c2300ae9274eacc87ac883daf3c",
+    "repairs.csv": "a8cec05ef5b3b425d033f1f7dfb225d4",
+    "deposit_ledger.csv": "b50ce1aceec3294b7cf9ad4d2a740755",
+    "ground_truth.csv": "92ffa42735c07e2c54fd9a281e94d9ea"
+  },
+  "errors": [],
+  "warnings": [
+    "[LEDGER] 5 asset(s) have negative deposit balance (expected for edge cases)"
+  ],
+  "edge_cases_injected": 45
+}

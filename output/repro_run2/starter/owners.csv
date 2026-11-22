@@ -1,0 +1,121 @@
+owner_id,owner_name,owner_type,contact_email,contact_phone,country,is_active,created_at
+OWN-00001,Carrier Corp 1,carrier,contact1@owner1.example.com,+1-555-8839-8829,AU,true,2025-01-20
+OWN-00002,Customer Corp 2,customer,contact2@owner2.example.com,+1-555-6312-2009,BR,true,2024-04-04
+OWN-00003,Third Party Logistics Corp 3,third_party_logistics,contact3@owner3.example.com,+1-555-3283-9976,IN,true,2025-03-09
+OWN-00004,Third Party Logistics Corp 4,third_party_logistics,contact4@owner4.example.com,+1-555-8533-2145,AU,true,2025-11-05
+OWN-00005,Third Party Logistics Corp 5,third_party_logistics,contact5@owner5.example.com,+1-555-9460-2433,CN,true,2023-07-07
+OWN-00006,Supplier Corp 6,supplier,contact6@owner6.example.com,+1-555-8567-1645,IN,true,2024-10-02
+OWN-00007,Carrier Corp 7,carrier,contact7@owner7.example.com,+1-555-6531-5121,CN,true,2025-11-30
+OWN-00008,Warehouse Corp 8,warehouse,contact8@owner8.example.com,+1-555-6721-1652,US,true,2024-07-07
+OWN-00009,Carrier Corp 9,carrier,contact9@owner9.example.com,+1-555-6009-3057,GB,true,2025-01-03
+OWN-00010,Warehouse Corp 10,warehouse,contact10@owner10.example.com,+1-555-2062-3173,BR,true,2023-11-15
+OWN-00011,Customer Corp 11,customer,contact11@owner11.example.com,+1-555-3952-6047,CA,true,2024-10-14
+OWN-00012,Customer Corp 12,customer,contact12@owner12.example.com,+1-555-4290-9693,IN,true,2023-03-07
+OWN-00013,Carrier Corp 13,carrier,contact13@owner13.example.com,+1-555-3003-6662,AU,true,2024-12-25
+OWN-00014,Customer Corp 14,customer,contact14@owner14.example.com,+1-555-6712-3129,JP,true,2024-02-06
+OWN-00015,Warehouse Corp 15,warehouse,contact15@owner15.example.com,+1-555-8911-2528,BR,true,2025-01-21
+OWN-00016,Supplier Corp 16,supplier,contact16@owner16.example.com,+1-555-9075-9087,US,true,2024-08-20
+OWN-00017,Warehouse Corp 17,warehouse,contact17@owner17.example.com,+1-555-2967-6456,MX,true,2024-07-30
+OWN-00018,Supplier Corp 18,supplier,contact18@owner18.example.com,+1-555-8118-7239,GB,true,2023-03-15
+OWN-00019,Warehouse Corp 19,warehouse,contact19@owner19.example.com,+1-555-2880-3374,MX,true,2023-10-02
+OWN-00020,Carrier Corp 20,carrier,contact20@owner20.example.com,+1-555-2536-1999,JP,true,2024-07-24
+OWN-00021,Supplier Corp 21,supplier,contact21@owner21.example.com,+1-555-5248-5835,BR,true,2023-12-26
+OWN-00022,Third Party Logistics Corp 22,third_party_logistics,contact22@owner22.example.com,+1-555-4395-7374,US,true,2025-01-22
+OWN-00023,Supplier Corp 23,supplier,contact23@owner23.example.com,+1-555-6796-1666,MX,true,2025-07-20
+OWN-00024,Warehouse Corp 24,warehouse,contact24@owner24.example.com,+1-555-3802-6274,JP,true,2025-02-06
+OWN-00025,Third Party Logistics Corp 25,third_party_logistics,contact25@owner25.example.com,+1-555-1878-6442,JP,true,2025-09-07
+OWN-00026,Supplier Corp 26,supplier,contact26@owner26.example.com,+1-555-2681-6739,CN,true,2024-06-15
+OWN-00027,Warehouse Corp 27,warehouse,contact27@owner27.example.com,+1-555-6979-5040,JP,true,2023-07-02
+OWN-00028,Supplier Corp 28,supplier,contact28@owner28.example.com,+1-555-4751-5547,IN,true,2023-06-27
+OWN-00029,Warehouse Corp 29,warehouse,contact29@owner29.example.com,+1-555-9423-1936,IN,true,2025-03-27
+OWN-00030,Supplier Corp 30,supplier,contact30@owner30.example.com,+1-555-2012-6498,CN,true,2023-09-05
+OWN-00031,Supplier Corp 31,supplier,contact31@owner31.example.com,+1-555-4789-8582,AU,true,2023-01-10
+OWN-00032,Third Party Logistics Corp 32,third_party_logistics,contact32@owner32.example.com,+1-555-1992-1863,JP,true,2024-11-14
+OWN-00033,Customer Corp 33,customer,contact33@owner33.example.com,+1-555-6781-3777,GB,true,2024-04-11
+OWN-00034,Warehouse Corp 34,warehouse,contact34@owner34.example.com,+1-555-8320-9431,AU,true,2024-09-27
+OWN-00035,Carrier Corp 35,carrier,contact35@owner35.example.com,+1-555-7197-5194,CA,true,2023-03-27
+OWN-00036,Supplier Corp 36,supplier,contact36@owner36.example.com,+1-555-1002-3586,DE,true,2024-10-25
+OWN-00037,Carrier Corp 37,carrier,contact37@owner37.example.com,+1-555-2963-1885,US,true,2025-08-23
+OWN-00038,Supplier Corp 38,supplier,contact38@owner38.example.com,+1-555-6084-5716,US,true,2024-02-13
+OWN-00039,Warehouse Corp 39,warehouse,contact39@owner39.example.com,+1-555-5311-2459,CN,true,2025-08-02
+OWN-00040,Carrier Corp 40,carrier,contact40@owner40.example.com,+1-555-8422-3922,AU,true,2024-10-15
+OWN-00041,Carrier Corp 41,carrier,contact41@owner41.example.com,+1-555-2889-4014,BR,true,2023-06-05
+OWN-00042,Carrier Corp 42,carrier,contact42@owner42.example.com,+1-555-4555-1952,AU,true,2023-03-22
+OWN-00043,Warehouse Corp 43,warehouse,contact43@owner43.example.com,+1-555-3737-3600,CN,true,2023-04-11
+OWN-00044,Supplier Corp 44,supplier,contact44@owner44.example.com,+1-555-5057-6970,CA,true,2023-07-09
+OWN-00045,Supplier Corp 45,supplier,contact45@owner45.example.com,+1-555-3571-4499,AU,true,2024-06-28
+OWN-00046,Third Party Logistics Corp 46,third_party_logistics,contact46@owner46.example.com,+1-555-7438-4083,IN,true,2024-03-12
+OWN-00047,Third Party Logistics Corp 47,third_party_logistics,contact47@owner47.example.com,+1-555-9537-3266,CN,true,2024-08-13
+OWN-00048,Supplier Corp 48,supplier,contact48@owner48.example.com,+1-555-1856-8007,GB,true,2023-10-11
+OWN-00049,Customer Corp 49,customer,contact49@owner49.example.com,+1-555-4300-6197,GB,true,2024-11-22
+OWN-00050,Carrier Corp 50,carrier,contact50@owner50.example.com,+1-555-9388-1962,MX,true,2023-07-05
+OWN-00051,Third Party Logistics Corp 51,third_party_logistics,contact51@owner51.example.com,+1-555-7312-5261,IN,true,2025-12-19
+OWN-00052,Third Party Logistics Corp 52,third_party_logistics,contact52@owner52.example.com,+1-555-9186-8496,CN,true,2025-09-13
+OWN-00053,Carrier Corp 53,carrier,contact53@owner53.example.com,+1-555-5950-3372,CA,true,2023-07-10
+OWN-00054,Warehouse Corp 54,warehouse,contact54@owner54.example.com,+1-555-8859-6963,AU,true,2024-10-13
+OWN-00055,Warehouse Corp 55,warehouse,contact55@owner55.example.com,+1-555-4801-6544,DE,true,2024-03-29
+OWN-00056,Third Party Logistics Corp 56,third_party_logistics,contact56@owner56.example.com,+1-555-4690-4123,AU,true,2025-03-05
+OWN-00057,Supplier Corp 57,supplier,contact57@owner57.example.com,+1-555-1705-2433,DE,true,2025-03-30
+OWN-00058,Warehouse Corp 58,warehouse,contact58@owner58.example.com,+1-555-9322-9523,IN,true,2024-07-03
+OWN-00059,Supplier Corp 59,supplier,contact59@owner59.example.com,+1-555-4907-2833,CN,true,2024-09-22
+OWN-00060,Third Party Logistics Corp 60,third_party_logistics,contact60@owner60.example.com,+1-555-1639-5807,GB,true,2023-12-19
+OWN-00061,Carrier Corp 61,carrier,contact61@owner61.example.com,+1-555-7606-5528,AU,true,2025-12-11
+OWN-00062,Customer Corp 62,customer,contact62@owner62.example.com,+1-555-3620-1353,BR,true,2023-12-12
+OWN-00063,Carrier Corp 63,carrier,contact63@owner63.example.com,+1-555-5377-4722,GB,true,2024-12-28
+OWN-00064,Customer Corp 64,customer,contact64@owner64.example.com,+1-555-5048-1866,IN,true,2025-04-19
+OWN-00065,Customer Corp 65,customer,contact65@owner65.example.com,+1-555-5075-1167,CN,true,2025-12-24
+OWN-00066,Third Party Logistics Corp 66,third_party_logistics,contact66@owner66.example.com,+1-555-5419-7469,AU,true,2023-08-04
+OWN-00067,Customer Corp 67,customer,contact67@owner67.example.com,+1-555-4661-9243,AU,true,2025-03-14
+OWN-00068,Third Party Logistics Corp 68,third_party_logistics,contact68@owner68.example.com,+1-555-8679-7960,IN,true,2023-08-14
+OWN-00069,Customer Corp 69,customer,contact69@owner69.example.com,+1-555-1723-4276,DE,true,2025-02-06
+OWN-00070,Supplier Corp 70,supplier,contact70@owner70.example.com,+1-555-9188-4305,MX,true,2024-06-09
+OWN-00071,Customer Corp 71,customer,contact71@owner71.example.com,+1-555-1630-9846,GB,true,2024-12-21
+OWN-00072,Warehouse Corp 72,warehouse,contact72@owner72.example.com,+1-555-7090-9836,MX,true,2024-03-06
+OWN-00073,Warehouse Corp 73,warehouse,contact73@owner73.example.com,+1-555-8596-9057,CN,true,2023-10-11
+OWN-00074,Customer Corp 74,customer,contact74@owner74.example.com,+1-555-3983-5720,IN,true,2023-12-05
+OWN-00075,Third Party Logistics Corp 75,third_party_logistics,contact75@owner75.example.com,+1-555-3831-6119,CN,true,2023-07-14
+OWN-00076,Warehouse Corp 76,warehouse,contact76@owner76.example.com,+1-555-8714-7130,DE,true,2023-08-14
+OWN-00077,Third Party Logistics Corp 77,third_party_logistics,contact77@owner77.example.com,+1-555-4396-3644,AU,true,2023-08-06
+OWN-00078,Supplier Corp 78,supplier,contact78@owner78.example.com,+1-555-9144-3405,MX,true,2024-09-09
+OWN-00079,Third Party Logistics Corp 79,third_party_logistics,contact79@owner79.example.com,+1-555-2312-1164,BR,true,2023-05-17
+OWN-00080,Warehouse Corp 80,warehouse,contact80@owner80.example.com,+1-555-4447-6093,IN,true,2024-03-22
+OWN-00081,Supplier Corp 81,supplier,contact81@owner81.example.com,+1-555-4341-4062,JP,true,2024-05-23
+OWN-00082,Supplier Corp 82,supplier,contact82@owner82.example.com,+1-555-2711-2271,GB,true,2024-08-28
+OWN-00083,Supplier Corp 83,supplier,contact83@owner83.example.com,+1-555-4236-2182,BR,true,2023-06-26
+OWN-00084,Customer Corp 84,customer,contact84@owner84.example.com,+1-555-2754-5335,DE,true,2024-09-23
+OWN-00085,Third Party Logistics Corp 85,third_party_logistics,contact85@owner85.example.com,+1-555-1739-4178,US,true,2024-06-08
+OWN-00086,Customer Corp 86,customer,contact86@owner86.example.com,+1-555-1959-1709,CA,true,2023-09-20
+OWN-00087,Warehouse Corp 87,warehouse,contact87@owner87.example.com,+1-555-5500-8682,DE,true,2024-04-10
+OWN-00088,Supplier Corp 88,supplier,contact88@owner88.example.com,+1-555-8377-8580,CA,true,2025-02-12
+OWN-00089,Supplier Corp 89,supplier,contact89@owner89.example.com,+1-555-5412-5287,AU,true,2023-02-16
+OWN-00090,Carrier Corp 90,carrier,contact90@owner90.example.com,+1-555-4833-5252,CA,true,2024-09-06
+OWN-00091,Supplier Corp 91,supplier,contact91@owner91.example.com,+1-555-4650-4170,JP,true,2024-05-26
+OWN-00092,Carrier Corp 92,carrier,contact92@owner92.example.com,+1-555-2349-1557,JP,true,2024-08-21
+OWN-00093,Customer Corp 93,customer,contact93@owner93.example.com,+1-555-7855-4673,IN,true,2023-02-26
+OWN-00094,Supplier Corp 94,supplier,contact94@owner94.example.com,+1-555-9066-8799,IN,true,2024-05-10
+OWN-00095,Third Party Logistics Corp 95,third_party_logistics,contact95@owner95.example.com,+1-555-5747-4877,IN,true,2024-01-08
+OWN-00096,Carrier Corp 96,carrier,contact96@owner96.example.com,+1-555-4329-3215,CN,true,2023-12-18
+OWN-00097,Customer Corp 97,customer,contact97@owner97.example.com,+1-555-8970-3711,US,true,2025-04-13
+OWN-00098,Carrier Corp 98,carrier,contact98@owner98.example.com,+1-555-2602-9356,AU,true,2023-01-05
+OWN-00099,Warehouse Corp 99,warehouse,contact99@owner99.example.com,+1-555-4881-4219,CA,true,2024-06-02
+OWN-00100,Supplier Corp 100,supplier,contact100@owner100.example.com,+1-555-9723-8548,CN,true,2023-02-07
+OWN-00101,Supplier Corp 101,supplier,contact101@owner101.example.com,+1-555-9795-9173,US,true,2024-08-10
+OWN-00102,Supplier Corp 102,supplier,contact102@owner102.example.com,+1-555-2423-4105,DE,true,2024-07-11
+OWN-00103,Carrier Corp 103,carrier,contact103@owner103.example.com,+1-555-7583-1972,BR,true,2023-06-29
+OWN-00104,Supplier Corp 104,supplier,contact104@owner104.example.com,+1-555-6579-3977,US,true,2023-01-06
+OWN-00105,Customer Corp 105,customer,contact105@owner105.example.com,+1-555-2027-8320,AU,true,2023-11-19
+OWN-00106,Customer Corp 106,customer,contact106@owner106.example.com,+1-555-5434-1553,AU,true,2024-10-05
+OWN-00107,Carrier Corp 107,carrier,contact107@owner107.example.com,+1-555-3422-5407,IN,true,2025-07-17
+OWN-00108,Warehouse Corp 108,warehouse,contact108@owner108.example.com,+1-555-3765-5009,GB,true,2025-09-05
+OWN-00109,Carrier Corp 109,carrier,contact109@owner109.example.com,+1-555-1402-3822,JP,true,2024-02-27
+OWN-00110,Supplier Corp 110,supplier,contact110@owner110.example.com,+1-555-3844-2731,BR,true,2023-05-13
+OWN-00111,Supplier Corp 111,supplier,contact111@owner111.example.com,+1-555-3183-5017,AU,true,2023-10-23
+OWN-00112,Carrier Corp 112,carrier,contact112@owner112.example.com,+1-555-8309-1075,US,true,2024-12-27
+OWN-00113,Customer Corp 113,customer,contact113@owner113.example.com,+1-555-9334-6222,DE,true,2024-03-28
+OWN-00114,Warehouse Corp 114,warehouse,contact114@owner114.example.com,+1-555-4066-3206,BR,true,2025-09-02
+OWN-00115,Customer Corp 115,customer,contact115@owner115.example.com,+1-555-5742-1366,CN,true,2023-08-30
+OWN-00116,Carrier Corp 116,carrier,contact116@owner116.example.com,+1-555-1678-2075,GB,true,2023-01-28
+OWN-00117,Carrier Corp 117,carrier,contact117@owner117.example.com,+1-555-3854-2257,GB,true,2025-09-22
+OWN-00118,Supplier Corp 118,supplier,contact118@owner118.example.com,+1-555-8052-4743,US,true,2025-04-22
+OWN-00119,Carrier Corp 119,carrier,contact119@owner119.example.com,+1-555-3446-4601,GB,true,2025-11-03
+OWN-00120,Customer Corp 120,customer,contact120@owner120.example.com,+1-555-3389-7491,IN,true,2023-11-01
